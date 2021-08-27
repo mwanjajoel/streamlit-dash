@@ -81,7 +81,6 @@ typing-extensions==3.10.0.0
 tzlocal==3.0
 urllib3==1.26.6
 validators==0.18.2
-watchdog @ file:///opt/concourse/worker/volumes/live/f117e7cc-83ac-4e7e-5d84-678166bb17eb/volume/watchdog_1624955016747/work
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
